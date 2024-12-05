@@ -264,7 +264,7 @@ Here are some examples of correct usage of artifacts:
         </boltAction>
 
         <boltAction type="shell">
-          npm install --save-dev vite
+          npm install -D vite
         </boltAction>
 
         <boltAction type="file" filePath="index.html">
